@@ -14,6 +14,6 @@
     "grunt": "*",
     "underscore": "*",
     "grunt-contrib-jshint": "*",
-    "xliff2json": "*"
+    "xliff2json": "git://github.com/mjj2000/xliff2json.git"
   }
 }
