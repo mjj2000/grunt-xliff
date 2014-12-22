@@ -10,7 +10,7 @@
   "main": "Gruntfile.js",
   "dependencies": {
     "handlebars": "*",
-    "i18n": "git://github.com/alex-seville/i18n-node.git",
+    "i18n": "git://github.com/mjj2000/i18n-node.git",
     "grunt": "*",
     "underscore": "*",
     "grunt-contrib-jshint": "*",
